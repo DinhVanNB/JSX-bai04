@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JSX-Bai03/static/css/main.98432eb0.css",
+    "main.js": "/JSX-Bai03/static/js/main.840f9ab1.js",
+    "index.html": "/JSX-Bai03/index.html",
+    "main.98432eb0.css.map": "/JSX-Bai03/static/css/main.98432eb0.css.map",
+    "main.840f9ab1.js.map": "/JSX-Bai03/static/js/main.840f9ab1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98432eb0.css",
+    "static/js/main.840f9ab1.js"
+  ]
+}
