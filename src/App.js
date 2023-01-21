@@ -1,5 +1,5 @@
 import './App.css';
-import './../%PUBLIC_URL%/bootstrap.css'
+import './bootstrap.css';
 
 
 
